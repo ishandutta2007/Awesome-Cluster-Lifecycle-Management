@@ -55,7 +55,7 @@
 
 ## 🔓 Open-Source GitHub Projects
 
-| Project | Stars | Description |
+| Project | GitHub_Stars | Description |
 | :--- | :---: | :--- |
 | **[k3s](https://github.com/k3s-io/k3s)** | [<img src="https://img.shields.io/github/stars/k3s-io/k3s?style=social&color=white" alt="k3s stars"/>](https://github.com/k3s-io/k3s/stargazers) | Lightweight certified Kubernetes distribution designed for IoT, edge, CI/CD, and resource-constrained environments. |
 | **[Rancher](https://github.com/rancher/rancher)** | [<img src="https://img.shields.io/github/stars/rancher/rancher?style=social&color=white" alt="Rancher stars"/>](https://github.com/rancher/rancher/stargazers) | Open-source multi-cluster management platform for provisioning and operating Kubernetes fleets across hybrid environments. |
@@ -87,7 +87,7 @@ Contributions are always welcome!
 
 1. 🍴 **Fork** the repository.
 2. 📝 Add your project or SaaS platform to `README.md` maintaining table formats and sorting order.
-3. 🔍 Ensure descriptions are clear, accurate, and include starting pricing / star count links.
+3. 🔍 Ensure descriptions are clear, accurate, and include starting pricing / Stars_Count links.
 4. 🚀 Open a **Pull Request** with a brief summary of the added resource.
 
 ---
